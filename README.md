@@ -21,13 +21,6 @@ If this happens:
 - You’ll get an error like: `RequestBlocked`
 - Workaround: **run the notebook locally** or **upload a transcript file manually**
 
----
 
-## 🚀 Usage Instructions
-
-### 1. Clone or open the notebook
-Open the notebook directly in Google Colab:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/qwen-youtube-summary/blob/main/qwen_youtube_summary.ipynb)
 
 
