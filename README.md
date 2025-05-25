@@ -6,10 +6,10 @@ This notebook extracts transcripts from YouTube videos, restores punctuation, an
 
 ## What It Does
 
-- 📼 Extracts YouTube transcript (if available)
-- ✍️ Adds punctuation using [`rpunct`](https://github.com/babthamotharan/rpunct)
-- 🤖 Generates a summary using Qwen via Hugging Face
-- ✅ Works in **Google Colab** or **locally**
+- Extracts YouTube transcript (if available)
+- Adds punctuation using [`rpunct`](https://github.com/babthamotharan/rpunct)
+- Generates a summary using Qwen via Hugging Face
+- Works in **Google Colab** or **locally**
 
 ---
 
