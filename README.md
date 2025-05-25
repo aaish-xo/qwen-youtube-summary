@@ -1,10 +1,10 @@
-# 🎥 Qwen YouTube Transcript Summarizer
+# Qwen YouTube Transcript Summarizer
 
 This notebook extracts transcripts from YouTube videos, restores punctuation, and generates summaries using the **Qwen-1.8B Chat** model from Alibaba, running through Hugging Face Transformers.
 
 ---
 
-## 🧠 What It Does
+## What It Does
 
 - 📼 Extracts YouTube transcript (if available)
 - ✍️ Adds punctuation using [`rpunct`](https://github.com/babthamotharan/rpunct)
@@ -13,7 +13,7 @@ This notebook extracts transcripts from YouTube videos, restores punctuation, an
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 > **YouTube may rate-limit or block transcript requests when running in Colab or other cloud environments.**
 
