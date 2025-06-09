@@ -19,7 +19,7 @@ This notebook extracts transcripts from YouTube videos, restores punctuation, an
 
 If this happens:
 - You’ll get an error like: `RequestBlocked`
-- Workaround: **run the notebook locally** or **upload a transcript file manually**
+- Workaround: run the notebook locally or upload a transcript file manually
 
 
 
